@@ -101,5 +101,5 @@ In this particular case, the function first retrieves the order object associate
 ```
 ## Contributing
 
-Pull requests are welcome. Money printer go burrrr! Go Flames! #QUANTCLUB
+Pull requests are welcome. Money printer go brrrr! Go Flames! #QUANTCLUB
 
