@@ -103,5 +103,3 @@ In this particular case, the function first retrieves the order object associate
 
 Pull requests are welcome. Money printer go brrrr! Go Flames! #QUANTCLUB
 
-![printer](https://giphy.com/gifs/andersonpaak-money-bills-9rwJNLBu8FMfixoIxL)
-
